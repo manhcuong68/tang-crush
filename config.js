@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'đừng giận emm nữa hic 🥰. Yêu mụp nhiều nhiều 😘😘',
     messDesc: 'Tối nayy call zoii bé nha ạ .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/manhcuong0680 '.
+    messLink: 'https://www.facebook.com/manhcuong0680 '
 }
