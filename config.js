@@ -6,8 +6,8 @@ const CONFIG = {
     
     `,
     btnIntro: 'hic hic',
-    title: 'mong mụp đừng có giận em nữa ạ 😙',
-    desc: 'mụp còn giận em hong ',
+    title: 'mong chị đừng có giận em nữa ạ 😙',
+    desc: 'chị còn giận em hong ',
     btnYes: 'hết giận òiii <33',
     btnNo: 'Không, càng ghét thêm :3',
     question:'mụp đừng giận bê nữa <3',
