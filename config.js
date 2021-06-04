@@ -1,19 +1,20 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Hôm nay em có làm cho bae bực 
+    introTitle: 'chị à!',
+    introDesc: `cái này em làm cho chị mong chị có thể quên
+    đi vụ kia và tha thứ cho bé dc khônng ạ🥺
     
     
     `,
-    btnIntro: 'hichic',
+    btnIntro: 'hic hic',
     title: 'mong mụp đừng có giận em nữa ạ 😙',
     desc: 'mụp còn giận em hong ',
     btnYes: 'hết giận òiii <33',
     btnNo: 'Không, càng ghét thêm :3',
     question:'mụp đừng giận bê nữa <3',
-    btnReply: 'Gửi cho mịp <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    btnReply: 'Gửi cho mụp <3 phải ghi cái gì đóa ',
+    reply: ' đừng cóa giận hayy ghét emm nữa  <33333333',
     mess: 'đừng giận emm nữa hic 🥰. Yêu mụp nhiều nhiều 😘😘',
     messDesc: 'Tối nayy call zoii bé nha ạ .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/manhcuong0680 '.
 }
